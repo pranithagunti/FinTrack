@@ -1,5 +1,3 @@
-**"Advanced Personal File Tracking System and Analysis Platform"**
-
 ---
 # 📁 Advanced Personal File Tracking System & Analysis Platform
 
