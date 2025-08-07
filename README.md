@@ -1,8 +1,6 @@
 **"Advanced Personal File Tracking System and Analysis Platform"**
 
 ---
-
-```md
 # 📁 Advanced Personal File Tracking System & Analysis Platform
 
 A powerful, secure, and intelligent platform to **track, manage, and analyze personal files and data**. This system leverages modern web technologies, AI, and automation tools to provide smart file tracking, real-time analysis, automated reminders, and seamless user experience.
@@ -36,11 +34,6 @@ A powerful, secure, and intelligent platform to **track, manage, and analyze per
 | **Hosting**      | Vercel (recommended)             |
 
 ---
-
-
-
-````
-
 ---
 
 ## ⚙️ Getting Started
