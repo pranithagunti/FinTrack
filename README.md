@@ -37,6 +37,14 @@ A powerful, secure, and intelligent platform to **track, manage, and analyze per
 
 ---
 
+
+
+````
+
+---
+
+## ⚙️ Getting Started
+
 ## 🧱 Tech Stack
 
 | Layer         | Technology                                                                 |
@@ -49,13 +57,6 @@ A powerful, secure, and intelligent platform to **track, manage, and analyze per
 | **Events/Queues** | [Inngest](https://www.inngest.com)                                         |
 | **UI Framework**  | [Tailwind CSS](https://tailwindcss.com), [shadcn/ui](https://ui.shadcn.com) |
 | **AI Services**   | [Google Gemini](https://deepmind.google/technologies/gemini), [Arjeqt](https://www.arjeqt.com) |
-
-
-````
-
----
-
-## ⚙️ Getting Started
 
 ### 1. Clone the Repository
 
