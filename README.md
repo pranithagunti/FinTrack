@@ -1,4 +1,4 @@
-Here is a complete, professional, and well-structured `README.md` file for your project **"Advanced Personal File Tracking System and Analysis Platform"**, incorporating all the tech stack you mentioned: **Supabase**, **Prisma**, **Next.js**, **Tailwind CSS**, **ShadCN UI**, **Inngest**, **Resend**, **Google Gemini**, **Arject**, and **Clerk**.
+**"Advanced Personal File Tracking System and Analysis Platform"**
 
 ---
 
@@ -37,23 +37,19 @@ A powerful, secure, and intelligent platform to **track, manage, and analyze per
 
 ---
 
-## 📁 Project Structure
+## 🧱 Tech Stack
 
-```
+| Layer         | Technology                                                                 |
+|---------------|----------------------------------------------------------------------------|
+| **Framework**     | [Next.js](https://nextjs.org)                                               |
+| **Database ORM**  | [Prisma](https://www.prisma.io)                                            |
+| **Auth**          | [Clerk](https://clerk.dev)                                                 |
+| **Storage**       | [Supabase](https://supabase.com)                                           |
+| **Email**         | [Resend](https://resend.com)                                               |
+| **Events/Queues** | [Inngest](https://www.inngest.com)                                         |
+| **UI Framework**  | [Tailwind CSS](https://tailwindcss.com), [shadcn/ui](https://ui.shadcn.com) |
+| **AI Services**   | [Google Gemini](https://deepmind.google/technologies/gemini), [Arjeqt](https://www.arjeqt.com) |
 
-file-tracker/
-│
-├── components/         # Reusable UI components
-├── pages/              # Next.js pages
-├── app/                # App directory (if using App Router)
-├── lib/                # Utility & helper functions
-├── prisma/             # Prisma schema & DB client
-├── public/             # Static assets
-├── styles/             # Tailwind and global styles
-├── inngest/            # Event handlers
-├── .env.local          # Environment variables
-├── next.config.js      # Next.js config
-└── README.md           # This file
 
 ````
 
