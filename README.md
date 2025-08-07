@@ -235,9 +235,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 > Built with ❤️ and modern web technologies
 
-```
-
----
-
-Would you like this saved as a downloadable `.md` file?
-```
