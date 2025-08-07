@@ -2,6 +2,8 @@
 # 📁 Advanced Personal File Tracking System & Analysis Platform
 
 A powerful, secure, and intelligent platform to **track, manage, and analyze personal files and data**. This system leverages modern web technologies, AI, and automation tools to provide smart file tracking, real-time analysis, automated reminders, and seamless user experience.
+<img width="1470" height="956" alt="Screenshot 2025-07-30 at 9 08 55 AM" src="https://github.com/user-attachments/assets/4f97d0aa-a199-4e6e-ab03-a738047e58a1" />
+
 
 ---
 
@@ -200,6 +202,7 @@ Recommended deployment platform: **Vercel**
 ## 🖼️ Screenshots
 
 > *Coming soon – Include UI screenshots here if available*
+blob:https://web.whatsapp.com/4e72af5c-6584-4a52-8c04-cdd685127634<img width="2082" height="1443" alt="image" src="https://github.com/user-attachments/assets/b8d3f150-1c7f-4c6d-a0ed-05ced1651b8b" />
 
 ---
 
