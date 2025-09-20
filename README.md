@@ -9,7 +9,7 @@ A powerful, secure, and intelligent platform to **track, manage, and analyze per
 
 ## 🚀 Features
 
-- 📂 Track and manage personal files securely
+- 📂 Track and manage personal files securely.
 - 📊 Visualize file activity and usage patterns
 - 📅 Smart reminders and scheduled automation using Inngest
 - 🔔 Email notifications with Resend
