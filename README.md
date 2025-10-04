@@ -226,9 +226,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Pranitha Gunti**
 💼 Full Stack Developer & AI Enthusiast
+
 📧 Email: [pranithagunti@gmail.com](mailto:pranithagunti@gmail.com)
+
 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+
 🔗 LinkedIn: [https://linkedin.com/in/pranitha-gunti](https://linkedin.com/in/pranitha-gunti)
+
 🐙 GitHub: [https://github.com/pranithagunti](https://github.com/pranithagunti)
 
 ---
